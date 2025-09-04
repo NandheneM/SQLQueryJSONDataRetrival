@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQLQueryDataRetrival")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ddba52eeb169568cb8ed74771ca5f48ca6e876")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQLQueryDataRetrival")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQLQueryDataRetrival")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
